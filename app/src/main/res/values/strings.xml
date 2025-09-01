@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Profil Mahasiswa</string>
+
+    <!-- Data Profil -->
+    <string name="student_name">Budi Santoso</string>
+    <string name="student_nim">NIM: 220123456</string>
+    <string name="student_prodi">Program Studi: Informatika</string>
+    <string name="student_daerah">Asal: Yogyakarta</string>
+    <string name="student_link">https://linkedin.com/in/budi</string>
+
+    <!-- Hobi -->
+    <string name="label_hobi">Hobi</string>
+    <string name="student_hobi">Membaca, Coding, Main Game</string>
+
+    <!-- Quote -->
+    <string name="label_quote">Quote</string>
+    <string name="student_quote">“Aselole hahahehe”</string>
+</resources>
